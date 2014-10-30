@@ -1,0 +1,3 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_1='/var/www/peerfit_dev/peerfit/www.peerfit.com/web/content/blog/wp-content/plugins/types/embedded/classes/relationship'
